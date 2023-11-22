@@ -1,0 +1,101 @@
+    1  git --version
+    2  git --version
+    3  pwd
+    4  ls
+    5  cd Desktop
+    6  ls
+    7  cd "DATA SCI"
+    8  clear
+    9  ls
+   10  cd Test_App
+   11  ls
+   12  rmdir f3.pyhton
+   13  pwd
+   14  ls
+   15  cd Desktop
+   16  ls
+   17  cd "DATA SCI"
+   18  LS
+   19  cd Test_App
+   20  clear
+   21  pwd
+   22  ls
+   23  nano f3.py
+   24  cat f3.py
+   25  nano f3.py
+   26  history 
+   27  history >> commands.txt
+    1  git --version
+    2  git --version
+    3  pwd
+    4  ls
+    5  cd Desktop
+    6  ls
+    7  cd "DATA SCI"
+    8  clear
+    9  ls
+   10  cd Test_App
+   11  ls
+   12  rmdir f3.pyhton
+   13  pwd
+   14  ls
+   15  cd Desktop
+   16  ls
+   17  cd "DATA SCI"
+   18  LS
+   19  cd Test_App
+   20  clear
+   21  pwd
+   22  ls
+   23  nano f3.py
+   24  cat f3.py
+   25  nano f3.py
+   26  pwd
+   27  ls
+   28  history 
+   29  history >> commands.txt
+   30  pwd
+   31  ls
+   32  cd Desktop
+   33  ld
+   34  ls
+   35  cd "DATA SCI"
+   36  LS
+   37  ls
+   38  cd Test_App
+   39  clear 
+   40  pwd
+   41  git init
+   42  ls -a 
+   43  rm -r .git
+   44  git init
+   45  git config --list
+   46  git config --global user.name 'Shaurya2127'
+   47  git config --list
+   48  clear
+   49  git remote -v
+   50  git remote add origin https://github.com/Shaurya2127/Test_App.git
+   51  git remote -v
+   52  git branch -m master main
+   53  git push --set-upstream origin main
+   54  ls
+   55  git status
+   56  git add f1.txt
+   57  git status
+   58  git add f2.sql f3.py
+   59  sit status
+   60  git status
+   61  git rm --cached f3.py
+   62  git status
+   63  git add .
+   64  git rm --cached .
+   65  git rm -r --cached .
+   66  git add .
+   67  git status
+   68  git commit -m 'This is my first commit'
+   69  git status 
+   70  git push -f origin main
+   71  git push -f origin main
+   72  git push --set-upstream origin main
+   73  pwd
+   74  history >> commands.txt
