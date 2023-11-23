@@ -1,11 +1,9 @@
-a = 10 
-b = 15 
-c = 12
-if a == b :
-     print ("first condition is true.")
-elif a == c :
-     print("secong condition is ture.")
-else :
-     print("the arguments are wrong.")
+user_input = input("What is your name?")
+if user_input == "Python":
+    print("Welcome!")
+else:
+    print("Welcome to Python!")
+
+print("Happy Learning!")
 
 
